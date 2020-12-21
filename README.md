@@ -1,2 +1,2 @@
-# Sample-JS-Web-Basic-CodeSandbox
+# sandbird-js-sample-codesandbox
 Created with CodeSandbox
